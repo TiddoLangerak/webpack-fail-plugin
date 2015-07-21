@@ -1,4 +1,4 @@
-This plugin will make webpack return status code 1 when it has errors in single-run mode.
+Webpack plugin that will make the process return status code 1 when it finishes with errors in single-run mode.
 
 ## Install
 `npm install webpack-fail-plugin`
@@ -15,5 +15,5 @@ module.exports = {
 }
 ```
 
-Credits to [@happypoulp](https://github.com/happypoulp) for figuring out most of the code.
+Credits to [@happypoulp](https://github.com/happypoulp).
 

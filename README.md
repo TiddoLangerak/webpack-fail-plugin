@@ -1,5 +1,8 @@
 This plugin will make webpack return status code 1 when it has errors in single-run mode.
 
+## Install
+`npm install webpack-fail-plugin`
+
 ## Usage
 ```javascript
 var failPlugin = require('webpack-fail-plugin');

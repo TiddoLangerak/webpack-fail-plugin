@@ -11,11 +11,6 @@
   },
   "author": "Tiddo Langerak <tiddolangerak@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "node-libs-browser": "^0.5.2",
-    "webpack": "^1.10.1"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TiddoLangerak/webpack-fail-plugin.git"

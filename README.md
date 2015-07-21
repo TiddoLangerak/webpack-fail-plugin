@@ -12,4 +12,5 @@ module.exports = {
 }
 ```
 
-Credits to @happypoulp for figuring out most of the code.
+Credits to [@happypoulp](https://github.com/happypoulp) for figuring out most of the code.
+

@@ -8,7 +8,7 @@
     "webpack"
   ],
   "peerDependencies": {
-    "webpack": "^1.9.11"
+    "webpack": "^1.9.11 || ^2.1.0-beta"
   },
   "author": "Tiddo Langerak <tiddolangerak@gmail.com>",
   "license": "MIT",

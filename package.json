@@ -1,9 +1,11 @@
 {
   "name": "webpack-fail-plugin",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Webpack plugin that makes the process return an error code on failure",
   "main": "index.js",
-  "engines": { "node": ">=0.11.12" },
+  "engines": {
+    "node": ">=0.11.12"
+  },
   "keywords": [
     "webpack"
   ],

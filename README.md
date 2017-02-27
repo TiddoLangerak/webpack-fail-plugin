@@ -1,3 +1,5 @@
+# DEPRECATED: This is default behaviour in Webpack 2.x, you don't need this plugin anymore.
+
 Webpack plugin that will make the process return status code 1 when it finishes with errors in single-run mode.
 
 ## Install

@@ -12,7 +12,9 @@ appropriate repositories. In the mean time you could try to  use this plugin as 
 Webpack plugin that will make the process return status code 1 when it finishes with errors in single-run mode.
 
 ## Install
-`npm install webpack-fail-plugin`
+```
+npm install webpack-fail-plugin --save-dev
+```
 
 ## Usage
 ```javascript
